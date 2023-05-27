@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu, sans-serif;
+    
+}
+
+#piggy {
+    color: #000ff0;
+    font-size: 36px;
+}
+
+.odd.line3 {
+    font-size: 24px;
+}
+
+#walrus {
+    background-color: #90ee90;
+    font-weight: 700;
+}
