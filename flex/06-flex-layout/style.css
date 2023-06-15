@@ -9,6 +9,14 @@ body {
   flex-direction: column;
 }
 
+.footer {
+  display: flex;
+  padding: 16px;
+  justify-content: space-between;
+  background-color: #eeeeee;
+  align-items: center;
+}
+
 .content {
   display: flex;
   flex: 1;
@@ -63,10 +71,5 @@ input {
   justify-content: space-between;
 }
 
-.footer {
-  display: flex;
-  padding: 16px;
-  justify-content: space-between;
-  background-color: #eeeeee;
-}
+
 
